@@ -1,4 +1,4 @@
-Dim Summary_Stocks As Double
+
 Sub GetTicker()
 
   ' Define Variables
@@ -9,6 +9,7 @@ Sub GetTicker()
     Dim OpenValue As Double
     Dim LastValue As Double
     Dim YearlyChange As Double
+    Dim Summary_Stocks As Double
     Dim PerChange As Double
     Dim Total_Stocks As Double
     Dim Increase As Double
